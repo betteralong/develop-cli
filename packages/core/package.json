@@ -21,13 +21,13 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "access": "public"
   },
   "dependencies": {
-    "@along-cli-dev/utils": "^0.0.2"
+    "@along-cli-dev/utils": "^1.0.1"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "aa7724cafbf5e22ecb77a125b1029a37bb824054"
+  "gitHead": "b55da16f4fcef6bff4d0a9386525c0c04b958ef9",
 }
