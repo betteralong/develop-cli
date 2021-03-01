@@ -1,6 +1,6 @@
 {
   "name": "@along-cli-dev/utils",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "cli-dev utils",
   "author": "linjunlong < linjl@citycloud.com.cn>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "a1f244e7700f41e3083236e733768bc7cbf29780"
+  "gitHead": "aa7724cafbf5e22ecb77a125b1029a37bb824054"
 }
