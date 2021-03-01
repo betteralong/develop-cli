@@ -1,6 +1,6 @@
 {
   "name": "@along-cli-dev/core",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "cli-dev core",
   "keywords": [
     "node",
@@ -20,8 +20,8 @@
   "publishConfig": {
     "registry": "https://registry.npm.taobao.org/"
   },
-  "dependencies":{
-    "@along-cli-dev/utils": "^1.0.0"
+  "dependencies": {
+    "@along-cli-dev/utils": "^0.0.1"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
